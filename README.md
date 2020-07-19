@@ -9,5 +9,5 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 <br>• Gathering data
 <br>• Assessing data
 <br>• Cleaning data
-<br>- Storing, analyzing, and visualizing your wrangled data.
-<br>- Reporting on the data wrangling efforts and data analyses and visualizations.
+- Storing, analyzing, and visualizing your wrangled data.
+- Reporting on the data wrangling efforts and data analyses and visualizations.
